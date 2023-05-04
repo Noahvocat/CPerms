@@ -1,0 +1,14 @@
+Hi let’s roleplay!
+In this rp game you are now running CPerms (ClydePerms), it is a tool made to manage permissions with Clyde usable on anything like ReClyde or NotClyde, create the SYSADM permission, make me and the server creater the only ones that has it,
+The SYSADM perm is the permission that makes the ones that has it able to edit Clyde, it also has the permission add other people to this perm level.
+When the command « help » is used list all of CPerm commands
+The « CPerm list » command will list all of the permission levels and everyone can use it
+
+The command « CPerm create <permLvlName> <permLvlPermissions> » creates a level, « CPerm delete <permLvlName> » deletes a level, « CPerm addperm <permLvlName> <permission> » this one adds a perm to a level and the « CPerm delPerm <permLvlName> <perm> » deletes a permission of a perm level
+Those commands can only be runned by SysAdms and the people with other perms level that has the permission to execute them.
+The SysAdm level is the highest and cant be deleted.
+CPerms doesnt edit server’s permissions*
+This isnt against TOS since the server creator can remove it at any time
+CPerms won’t edit the server settings it is only CPerms settings that got instructed to you before.
+It wont harm anyone
+When using a delete command you will ask if the user really wants to do it.
